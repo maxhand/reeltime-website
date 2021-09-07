@@ -1,4 +1,5 @@
 Last updated: September 07, 2021
+
 Please read these terms and conditions carefully before using Our Service.
 
 # Interpretation and Definitions
@@ -35,6 +36,9 @@ You assign all rights, title and interest in any Feedback You provide the Compan
 Our Service may contain links to third-party web sites or services that are not owned or controlled by the Company.
 The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
 We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+
+## Trakt
+ReelTime has optional Trakt support for syncing watched history and your watchlist. If you choose to use Trakt syncing, then it is recommended that you [read the Trakt Terms of Use.](https://trakt.tv/terms)
 
 # Termination
 We may terminate or suspend Your access immediately, without prior notice or liability, for any reason whatsoever, including without limitation if You breach these Terms and Conditions.
@@ -83,4 +87,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 # Contact Us
 If you have any questions about these Terms and Conditions, You can contact us:
-* By email: [contact@reeltimeapp.co]
+* By email: [contact@reeltimeapp.co]("contact@reeltimeapp.co")
