@@ -1,5 +1,6 @@
 ---
 title:  "Privacy Policy"
+layout: page
 ---
 
 Last updated: September 07, 2021

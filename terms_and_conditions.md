@@ -1,5 +1,6 @@
 ---
 title:  "Terms and Conditions"
+layout: page
 ---
 
 Last updated: September 07, 2021
