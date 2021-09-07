@@ -1,4 +1,3 @@
-# Terms and Conditions
 Last updated: September 07, 2021
 Please read these terms and conditions carefully before using Our Service.
 
@@ -84,4 +83,4 @@ By continuing to access or use Our Service after those revisions become effectiv
 
 # Contact Us
 If you have any questions about these Terms and Conditions, You can contact us:
-* By email: contact@reeltimeapp.co
+* By email: [contact@reeltimeapp.co]
